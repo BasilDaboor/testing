@@ -1,0 +1,14 @@
+body{
+    padding-top: 60px;
+    padding-bottom: 40px;
+
+}
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 7px 25px ;
+    display: inline-block;
+}
+p{
+    line-height: 50px;
+}
